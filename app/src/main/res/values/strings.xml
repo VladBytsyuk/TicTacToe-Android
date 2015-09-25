@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="actionRestart">Restart game</string>
+    <string name="buttonPlayAgain">Play again</string>
+    <string name="playerX">Player X: </string>
+    <string name="playerO">Player O: </string>
+    <string name="playerXScore">0</string>
+    <string name="playerOScore">0</string>
+    <string name="empty"></string>
+    <string name="playerXWin">Player X Win!</string>
+    <string name="playerOWin">Player O Win!</string>
+    <string name="draw">Draw</string>
+    <string name="playerXMove">Player X move</string>
+    <string name="playerOMove">Player O move</string>
+
+</resources>
